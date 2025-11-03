@@ -10,7 +10,7 @@ I am currently interested in leveraging advanced techniques from the Natural Lan
   - [SQLBarber](https://arxiv.org/abs/2507.06192) for SQL workload generation (SIGMOD Demo 2025, Under revision of SIGMOD 2026)
   - [QUITE](https://arxiv.org/abs/2506.07675) for query rewrite (Under revision of SIGMOD 2026)
 - Generality
-  - [SemBench](sembench.org), a benchmark for semantic query processing engines
+  - [SemBench](http://sembench.org/), a benchmark for semantic query processing engines
 - Usability
   - [ToxicSQL](https://arxiv.org/abs/2503.05445) for Text-to-SQL model security (SIGMOD 2026)
 
