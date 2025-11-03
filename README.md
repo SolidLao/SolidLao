@@ -16,7 +16,7 @@ I am currently interested in leveraging advanced techniques from the Natural Lan
 
 You can find more about me in my [website](https://solidlao.github.io/)
 
-💬 Feel free to reach out to me: jiale@cs.cornell.edu
+💬 Feel free to reach out: jiale@cs.cornell.edu
 
 <!--
 **SolidLao/SolidLao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
