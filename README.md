@@ -14,7 +14,7 @@ I am currently interested in leveraging advanced techniques from the Natural Lan
 - Usability
   - [ToxicSQL](https://arxiv.org/abs/2503.05445) for Text-to-SQL model security (SIGMOD 2026)
 
-You can find more about me in my [website](https://solidlao.github.io/)
+You can find more about me in my [website](https://solidlao.github.io/) and [google scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=APjjwuYTlZGaMBU8g3UjBWY3Deql-bTkeahzrCWoFMp3VCuVEyeWyJualJTfjSfjilriIj8VKMMBrTpOz5DBMRUkDLal&user=PccHINcAAAAJ).
 
 💬 Feel free to reach out: jiale@cs.cornell.edu
 
