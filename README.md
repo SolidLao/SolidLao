@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Jiale Lao, a CS Phd student at Cornell University advised by Professor [Immanuel Trummer](https://itrummer.github.io/).
+I am Jiale Lao, a CS Phd Candidate at Cornell University advised by Professor [Immanuel Trummer](https://itrummer.github.io/).
 
 I have published multiple papers in SIGMOD and VLDB conferences and received [the SIGMOD Research Highlight Award 2024](https://sigmodrecord.org/publications/sigmodRecord/2503/pdfs/02_editor_notes.pdf).
 
