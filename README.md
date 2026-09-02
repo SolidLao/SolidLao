@@ -1,3 +1,5 @@
+https://docs.google.com/presentation/d/1QCBk2vovWtChXhrjngeV56dxAgWpdvWRnXhlCBCCKJI/edit?usp=sharing
+
 ## Hi there 👋
 
 I am Jiale Lao, a CS Phd Candidate at Cornell University advised by Professor [Immanuel Trummer](https://itrummer.github.io/).
