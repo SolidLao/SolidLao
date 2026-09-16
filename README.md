@@ -9,11 +9,13 @@ I am currently interested in leveraging advanced techniques from the Natural Lan
   - [GenDB](https://solidlao.github.io/GenDB/), an LLM-Powered Generative Query Engine Built for the Future (VLDB Demo 2026)
   - [GPTuner](https://github.com/SolidLao/GPTuner) for system tuning (SIGMOD Research Highlight 🏆, VLDB 2024, SIGMOD Demo 2024 and Record 2025)
   - [SQLBarber](https://arxiv.org/abs/2507.06192) for SQL workload generation (SIGMOD 2026, SIGMOD Demo 2025)
+  - [Water](https://arxiv.org/abs/2603.28809) for workload compression and system tuning (VLDB 2027)
   - [QUITE](https://arxiv.org/abs/2506.07675) for query rewrite (Under revision of SIGMOD 2026)
 - Generality
   - [SemBench](http://sembench.org/), a benchmark for semantic query processing engines (VLDB 2026)
-- Usability
+- Reliability
   - [ToxicSQL](https://arxiv.org/abs/2503.05445) for Text-to-SQL model security (SIGMOD 2026)
+  - [Black-Hole-Attack](https://arxiv.org/abs/2604.05480) for Vector Database security (VLDB 2027)
 
 You can find more about me in my [website](https://solidlao.github.io/) and [google scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=APjjwuYTlZGaMBU8g3UjBWY3Deql-bTkeahzrCWoFMp3VCuVEyeWyJualJTfjSfjilriIj8VKMMBrTpOz5DBMRUkDLal&user=PccHINcAAAAJ).
 
